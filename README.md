@@ -157,7 +157,8 @@ student-profile-git-capstone/
 │
 ├── README.md
 ├── profile.txt
-└── skills.txt
+└── skills
+      └──skills.txt
 ```
 
 The project itself is intentionally simple.
@@ -609,20 +610,3 @@ Computer Science Student
 Aspiring AI Engineer
 
 ---
-
-## 🌱 Final Thought
-
-> **Don't just say you learned Git & GitHub.**
->
-> **Show what you can do with them.**
-
-**Learn. Build. Explain. Deploy.**
-
-```
-
-### One thing before you paste it
-
-Replace nothing except the project-specific details if your actual repository uses different filenames or a different project name. The commands and workflow above match the concepts you've told me you practiced across the five classes.
-
-And because this is your **first public portfolio showcase**, keep the repository's commit history intact. The README says what you learned; the **Git history proves that you actually practiced it**.
-```
